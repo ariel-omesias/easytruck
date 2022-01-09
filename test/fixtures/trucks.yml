@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image: MyString
+  description: MyText
+  tonnage: 9.99
+  rate: 9.99
+  stock: 1
+  phone: MyString
+  available: false
+
+two:
+  image: MyString
+  description: MyText
+  tonnage: 9.99
+  rate: 9.99
+  stock: 1
+  phone: MyString
+  available: false
